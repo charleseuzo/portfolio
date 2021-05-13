@@ -1,11 +1,14 @@
-###### Portfolio ########
+# Portfolio
 
-Voici le code source pour mon projet de portfolio professionnel dont l'adresse est: https://charlespaquet.com/
+## Voici le code source pour mon projet de portfolio professionnel dont l'adresse est: https://charlespaquet.com/
 
-On peut y trouver une section Compétences, une section À propos de moi sur mon parcours professionnel et mes études.
+### **On y retrouve quatre sections:**
 
-Ensuite, on trouve une section Projets pour les sites sur lesquels j'ai travaillé et enfin une section Contact.
+- Compétences (liste de mes connaissances en programmation Web)
+- À propos de moi (mon parcours professionnel et mes études)
+- Projets (sites sur lesquels j'ai travaillés)
+- Contact
 
-Pour faire ce site Web, j'ai utilisé WordPress et le thème Hestia que j'ai modifié pour mes besoins.
+Pour faire ce site Web, j'ai utilisé **WordPress** et le thème **Hestia** que j'ai modifié pour mes besoins.
 
-Pour accéder au code du thème, il faut suivre ce chemin: portfolio/wp-content/themes/hestia/
+Pour accéder au code du thème, il faut suivre ce chemin: _portfolio/wp-content/themes/hestia/_
